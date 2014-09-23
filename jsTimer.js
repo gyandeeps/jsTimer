@@ -28,7 +28,7 @@
  * Any kind of suggestions or feedbacks or contribution would be highly appreciated.
  * 
  * Version: 1.0.0
- * 
+ * @version 1.0.0
  * @dependencies {file}: log4javascript.js
  */   
     var timerLogger = log4javascript.getLogger("GS");
